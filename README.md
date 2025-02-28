@@ -1,5 +1,5 @@
 <div align="left">
-  <<img height="60em" src="https://imgur.com/Htyv0ML.png" alt="testmypc logo"/>
+  <img height="60em" src="https://imgur.com/Htyv0ML.png" alt="testmypc logo"/>
 </div>
 
 # TestMyPC
